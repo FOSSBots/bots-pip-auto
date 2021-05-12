@@ -1,5 +1,5 @@
 ipython==7.23.1
 pipdeptree==2.0.0
-pytest==6.2.3
+pytest==6.2.4
 wheel==0.36.2
 Flask==2.0.0
